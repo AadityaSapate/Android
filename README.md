@@ -1,2 +1,2 @@
-# Android
-Android projects
+
+Android projects built on Android Studio
