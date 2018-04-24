@@ -2,7 +2,7 @@
 
 ##Getting Started  
   
-  copy the code from app\src\main\java\com\example\aditya\braintrainer
+  copy the code from app\src\main\java\com\example\aditya
   
   How to run the project https://developer.android.com/training/basics/firstapp/running-app.html
 
