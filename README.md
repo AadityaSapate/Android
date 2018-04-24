@@ -1,6 +1,6 @@
-#Android projects built on Android Studio
+# Android projects built on Android Studio
 
-##Getting Started  
+## Getting Started  
   
   copy the code from app\src\main\java\com\example\aditya
   
